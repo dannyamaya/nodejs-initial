@@ -1,0 +1,5 @@
+node_modules/
+test-results/
+.idea/workspace.xml
+.idea
+.DS_Store
